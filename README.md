@@ -1,4 +1,4 @@
-# doneburn-emacs
+# doneburn
 
 This is a dark on light Emacs theme based on [Bozhidar Batsov's Zenburn
 theme](https://github.com/bbatsov/zenburn-emacs).
