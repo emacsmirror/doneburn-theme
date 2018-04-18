@@ -8,7 +8,7 @@ This is an updated version for modern Emacsen.
 
 ## Screenshot
 
-![Screenshot](https://github.com/manuel-uberti/doneburn-emacs/blob/master/screenshot.png)
+![Screenshot](https://github.com/manuel-uberti/doneburn/blob/master/screenshot.png)
 
 ## Note
 
