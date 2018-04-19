@@ -1,5 +1,7 @@
 # doneburn
 
+[![License GPL 3][badge-license]](http://www.gnu.org/licenses/gpl-3.0.txt)
+
 This is a dark on light Emacs theme based on [Bozhidar Batsov's Zenburn
 theme](https://github.com/bbatsov/zenburn-emacs).
 
