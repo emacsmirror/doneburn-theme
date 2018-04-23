@@ -14,12 +14,11 @@ This is an updated version for modern Emacsen.
 
 ## Setup
 
-As of now, the theme is not available on MELPA. You can still clone the
-repository and give it a try with something like:
+The theme is available on MELPA. You can easily install and configure it with [use-package](https://github.com/jwiegley/use-package):
 
 ``` emacs-lisp
 (use-package doneburn-theme
-  :load-path "<path-to-cloned-repo>"
+  :ensure t
   :config (load-theme 'doneburn 'no-confirm))
 ```
 
