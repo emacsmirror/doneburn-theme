@@ -22,10 +22,12 @@ The theme is available on MELPA. You can easily install and configure it with [u
   :config (load-theme 'doneburn 'no-confirm))
 ```
 
-## Note
+## Notes
 
-This theme is still a work in progress, mainly useful for my own daily usage for
-now. It lacks support for popular packages (e.g. Helm) simply because I just
+This theme lacks support for popular packages (e.g. Helm) simply because I just
 added the faces for the packages I use.
+
+I just wanted to make Chris Done’s original theme easily available to and
+modifiable by everyone.
 
 PRs are more than welcome.
