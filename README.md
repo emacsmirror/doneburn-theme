@@ -1,6 +1,7 @@
 # doneburn
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL
+v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![MELPA](https://melpa.org/packages/doneburn-theme-badge.svg)](https://melpa.org/#/doneburn-theme)
 
 This is a dark on light Emacs theme based on [Bozhidar Batsov's Zenburn
 theme](https://github.com/bbatsov/zenburn-emacs).
