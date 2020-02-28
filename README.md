@@ -27,10 +27,10 @@ with [use-package](https://github.com/jwiegley/use-package):
 Notes
 =====
 
-This theme lacks support for popular packages (e.g. Helm) simply because
-I just added the faces for the packages I use.
+I am not using this theme at the moment.
 
-I just wanted to make Chris Done’s original theme easily available to
-and modifiable by everyone.
+It was born out of my desire to make Chris Done’s original theme easily
+available to and modifiable by everyone, but please note that it lacks support
+for many packages (e.g., Helm).
 
 PRs are more than welcome.
